@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.sav
+*.csv
+dataset/
+Category/
+Model/
+.env
+venv/
+env/
