@@ -49,4 +49,3 @@ Shubhasmita Sahu
 MCA Graduate | Web & ML Enthusiast
 GitHub: shubhasmita2o1
 
-📜 License
